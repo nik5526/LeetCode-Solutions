@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nik5526/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -39,5 +41,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
