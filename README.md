@@ -27,6 +27,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nik5526/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,4 +76,9 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
