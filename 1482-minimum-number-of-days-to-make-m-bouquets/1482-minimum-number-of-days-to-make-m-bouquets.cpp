@@ -1,3 +1,8 @@
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
 class Solution {
 private:
     bool canMakeBouquets(const vector<int>& bloomDay, int m, int k, int day) {
