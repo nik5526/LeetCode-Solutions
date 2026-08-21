@@ -8,6 +8,7 @@
 | [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nik5526/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/nik5526/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -33,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nik5526/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nik5526/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/nik5526/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nik5526/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -49,6 +51,7 @@
 | [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nik5526/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/nik5526/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
@@ -60,6 +63,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nik5526/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/nik5526/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -116,12 +120,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nik5526/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nik5526/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nik5526/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nik5526/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -131,4 +137,9 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nik5526/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
