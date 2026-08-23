@@ -1,51 +1,47 @@
 class Solution {
 public:
-    std::string reorganizeString(std::string s) {
-        int n = s.length();
-        std::vector<int> freq(26, 0);
-        
-
-        for (char c : s) {
-            freq[c - 'a']++;
+    string reorganizeString(string s) {
+        unordered_map<char,int> hash;
+        for(auto i : s){
+            hash[i]++;
         }
-        
 
-        int maxFreq = 0;
-        char maxChar = ' ';
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] > maxFreq) {
-                maxFreq = freq[i];
-                maxChar = (char)('a' + i);
-            }
+        priority_queue<pair<int, char>> pq;
+        for(auto i : hash){
+            char ele = i.first;
+            int freq = i.second;
+            pair<int,char> curr = {freq,ele};
+            pq.push(curr);
         }
-        
 
-        if (maxFreq > (n + 1) / 2) {
-            return "";
-        }
-        
-        std::string result(n, ' ');
-        int index = 0;
-        
-
-        while (freq[maxChar - 'a'] > 0) {
-            result[index] = maxChar;
-            index += 2;
-            freq[maxChar - 'a']--;
-        }
-        
-        
-        for (int i = 0; i < 26; i++) {
-            while (freq[i] > 0) {
-                if (index >= n) {
-                    index = 1; 
+        string res ="";
+        int pos = 0;
+        while(!pq.empty()){
+            pair<int ,char> p = pq.top();
+            pq.pop();
+            if(pos == 0 || res[pos-1] != p.second){
+                res.push_back(p.second);
+                pos++;
+                p.first--;
+                if(p.first>0){
+                    pq.push(p);
                 }
-                result[index] = (char)('a' + i);
-                index += 2;
-                freq[i]--;
+            }
+            else{
+                if(pq.empty()){
+                    return "";
+                }
+                pair<int,char> p2 = pq.top();
+                pq.pop();
+                res.push_back(p2.second);
+                pos++;
+                p2.first--;
+                if(p2.first>0){
+                    pq.push(p2);
+                }
+                pq.push(p);
             }
         }
-        
-        return result;
+        return res;
     }
 };
