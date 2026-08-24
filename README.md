@@ -39,6 +39,7 @@
 | [0739-daily-temperatures](https://github.com/nik5526/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nik5526/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/nik5526/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nik5526/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Monotonic Stack
 |  |
@@ -134,6 +135,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nik5526/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/nik5526/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
