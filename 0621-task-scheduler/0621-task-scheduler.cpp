@@ -1,40 +1,25 @@
-using namespace std;
-
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        unordered_map<char, int> hash;
-        for (char t : tasks) {
-            hash[t]++;
-        }
+        priority_queue<pair<int,char>> pq;
+        unordered_map<char,int> mp;
+        for(char c : tasks) mp[c]++;
+        for(auto &pair : mp) pq.push({pair.second,pair.first});
+        int c = 0;
 
-        priority_queue<int> pq;
-        for (auto& [task, count] : hash) {
-            pq.push(count);
-        }
-
-        int totalTime = 0;
-        while (!pq.empty()) {
-            int cycle = n + 1;
-            vector<int> waitList;
-            int tasksExecuted = 0;
-            while (cycle > 0 && !pq.empty()) {
-                int currentFreq = pq.top();
+        while(!pq.empty()){
+            int cycle = n+1;
+            vector<pair<int,char>> q;
+            while(cycle-- && !pq.empty()){
+                int f = pq.top().first;
+                int top = pq.top().second;
                 pq.pop();
-
-                if (--currentFreq > 0) {
-                    waitList.push_back(currentFreq);
-                }
-
-                tasksExecuted++;
-                cycle--;
+                if(f-1>0) q.push_back({f-1,top});
+                c++;
             }
-            for (int remainingFreq : waitList) {
-                pq.push(remainingFreq);
-            }
-            totalTime += pq.empty() ? tasksExecuted : (n + 1);
+            for(auto &pair : q) pq.push(pair);
+            if(!pq.empty()) c+= cycle+1;
         }
-
-        return totalTime;
+        return c;
     }
 };
