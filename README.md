@@ -94,6 +94,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/nik5526/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nik5526/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/nik5526/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,4 +161,16 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
