@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nik5526/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -98,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nik5526/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/nik5526/LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nik5526/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nik5526/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nik5526/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nik5526/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
