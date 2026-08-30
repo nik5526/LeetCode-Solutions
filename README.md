@@ -10,6 +10,7 @@
 | [0409-longest-palindrome](https://github.com/nik5526/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/nik5526/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/nik5526/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/nik5526/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -18,6 +19,7 @@
 | [0020-valid-parentheses](https://github.com/nik5526/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nik5526/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/nik5526/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nik5526/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
@@ -101,6 +103,7 @@
 | ------- |
 | [0018-4sum](https://github.com/nik5526/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/nik5526/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0844-backspace-string-compare](https://github.com/nik5526/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/nik5526/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
