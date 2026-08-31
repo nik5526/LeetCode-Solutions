@@ -170,14 +170,17 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nik5526/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nik5526/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nik5526/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nik5526/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
