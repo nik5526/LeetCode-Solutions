@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nik5526/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/nik5526/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nik5526/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nik5526/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nik5526/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0018-4sum](https://github.com/nik5526/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/nik5526/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/nik5526/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/nik5526/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
