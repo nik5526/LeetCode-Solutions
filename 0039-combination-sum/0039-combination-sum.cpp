@@ -7,7 +7,7 @@ private:
             }
             return;
         }
-        comb(candidates, target, n, idx+1, diary, ans, sum);
+        
         if(candidates[idx] + sum<=target){
             diary.push_back(candidates[idx]);
             sum = sum + candidates[idx];
@@ -15,6 +15,8 @@ private:
             diary.pop_back();
             sum = sum - candidates[idx];
         }
+        comb(candidates, target, n, idx+1, diary, ans, sum);
+        return;
 
     }
 public:
